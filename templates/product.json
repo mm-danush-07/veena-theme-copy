@@ -41,6 +41,11 @@
           "settings": {
           }
         },
+        "easyflow_product_options_app_block_fkGpgN": {
+          "type": "shopify:\/\/apps\/easyflow-product-options\/blocks\/app-block\/83d04f43-e63e-4a8d-82b9-e4f0b41ef22f",
+          "settings": {
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -115,6 +120,7 @@
         "inventory_W64TVq",
         "coupon_code_YxGgEf",
         "quantity_selector",
+        "easyflow_product_options_app_block_fkGpgN",
         "buy_buttons",
         "pincode_checker_PqPbnh",
         "icon_with_text_7h8zF8",
