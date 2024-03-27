@@ -168,6 +168,18 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "2497517740430320072": {
+        "type": "shopify:\/\/apps\/easyflow-product-options\/blocks\/app-embed\/83d04f43-e63e-4a8d-82b9-e4f0b41ef22f",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "4981902369724952902": {
+        "type": "shopify:\/\/apps\/vo-product-options\/blocks\/embed-block\/430cbd7b-bd20-4c16-ba41-db6f4c645164",
+        "disabled": false,
+        "settings": {
+        }
       }
     },
     "color_schemes": {
